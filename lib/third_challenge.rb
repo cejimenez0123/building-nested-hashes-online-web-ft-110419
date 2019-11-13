@@ -1,10 +1,10 @@
 def third_challenge
   epic_tragedy = {
    :montague => {
-      :patriarch => {
+      :patriarch => {name:"",age:""
         #your key/value pairs here
         },
-      :matriarch => {
+      :matriarch => {name:"",age:""
         #your key/value pairs here
         },
       :hero => {
